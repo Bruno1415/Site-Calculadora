@@ -1,0 +1,10 @@
+div{
+    background-color: rgb(72, 72, 133);
+    width: 200px;
+    padding: 5px;
+}
+p{
+    background-color: white;
+    width: 200px;
+    height: 30px;
+}
